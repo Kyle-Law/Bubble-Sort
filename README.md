@@ -18,12 +18,6 @@ For #bubble_sort_by, it sorts an array by accepting a block and the usage of 'yi
 - Twitter: [@Kyle-Law](https://twitter.com/ZhunKhing)
 - Linkedin: [Kyle law](https://www.linkedin.com/in/kyle-lawzhunkhing/)
 
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
 👤 **Tirthajyoti Ghosh**
 
 - Github: [@tirthajyoti-ghosh](https://github.com/tirthajyoti-ghosh)
