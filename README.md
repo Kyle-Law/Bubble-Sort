@@ -1,4 +1,4 @@
-# Project Name
+# Bubble Sort
 
 First collaborative Ruby project of Microverse Software Development Program, where students have to build two methods - #bubble_sort and #bubble_sort_by that takes an array and returns a sorted array. It must use the bubble sort methodology. 
 
