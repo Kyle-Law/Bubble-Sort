@@ -21,7 +21,7 @@ For #bubble_sort_by, it sorts an array by accepting a block and the usage of 'yi
 👤 **Tirthajyoti Ghosh**
 
 - Github: [@tirthajyoti-ghosh](https://github.com/tirthajyoti-ghosh)
-- Twitter: [@TirthajyotiGho1](https://twitter.com/TirthajyotiGho1)
+- Twitter: [@terrific_ghosh](https://twitter.com/terrific_ghosh)
 - Linkedin: [tirthajyoti-ghosh](https://www.linkedin.com/in/tirthajyoti-ghosh-370544199/)
 
 ## 🤝 Contributing
