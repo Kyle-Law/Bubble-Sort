@@ -1,12 +1,12 @@
 # bubble sort without yield
 def bubble_sort(array)
-  (1..array.length - 1).each do |j| # run array.length-1 times eg.for 5-element array, we run it for 4 times
+  (1..array.length - 1).each do |j|
     loop_until = array.length - j
-    (0..loop_until).each do |i| # loop over the array
-      next unless i != array.length - 1 # if it's not the last item of the array
+    (0..loop_until).each do |i|
+      next unless i != array.length - 1
 
-      if array[i] > array[i + 1] # check if 1st element is bigger than 2nd element
-        array[i], array[i + 1] = array[i + 1], array[i] # swap them
+      if array[i] > array[i + 1]
+        array[i], array[i + 1] = array[i + 1], array[i]
       end
     end
   end
