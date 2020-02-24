@@ -5,8 +5,8 @@ def bubble_sort(array)
     (0..loop_until).each do |i|
       next unless i != array.length - 1
 
-      if array[i] > array[i + 1]
-        array[i], array[i + 1] = array[i + 1], array[i]
+      if array[i] > array[i + 1] # check if array[i] > array[i + 1]
+        array[i], array[i + 1] = array[i + 1], array[i] # swap
       end
     end
   end
