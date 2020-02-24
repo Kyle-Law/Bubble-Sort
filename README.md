@@ -1,42 +1,13 @@
 # Project Name
 
-> One paragraph statement about the project.
+First collaborative Ruby project of Microverse Software Development Program, where students have to build two methods - #bubble_sort and #bubble_sort_by that takes an array and returns a sorted array. It must use the bubble sort methodology. 
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+For #bubble_sort_by, it sorts an array by accepting a block and the usage of 'yield' is required.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+- Ruby
+- VS Code
 
 
 ## Authors
@@ -53,11 +24,17 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
 
+👤 **Tirthajyoti Ghosh**
+
+- Github: [@tirthajyoti-ghosh](https://github.com/tirthajyoti-ghosh)
+- Twitter: [@TirthajyotiGho1](https://twitter.com/TirthajyotiGho1)
+- Linkedin: [tirthajyoti-ghosh](https://www.linkedin.com/in/tirthajyoti-ghosh-370544199/)
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/Kyle-Law/Bubble-Sort/issues).
 
 ## Show your support
 
@@ -65,9 +42,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
+- The Odin Project
 
 ## 📝 License
 
