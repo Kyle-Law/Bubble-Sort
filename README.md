@@ -1,6 +1,6 @@
 # Bubble Sort
 
-First collaborative Ruby project of Microverse Software Development Program, where students have to build two methods - #bubble_sort and #bubble_sort_by that takes an array and returns a sorted array. It must use the bubble sort methodology. 
+The first collaborative Ruby project of the Microverse Software Development Program between [@Kyle-Law](https://github.com/Kyle-Law) and [@tirthajyoti-ghosh](https://github.com/tirthajyoti-ghosh), where we have to build two methods - #bubble_sort and #bubble_sort_by that takes an array and returns a sorted array. It must use the bubble sort methodology.
 
 For #bubble_sort_by, it sorts an array by accepting a block and the usage of 'yield' is required.
 
